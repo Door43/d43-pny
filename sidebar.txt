@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pny:home|Door43 (pny)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pny|d43-pny repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pny/archive/master.zip|d43-pny.zip]]
+
+**Recent Changes**
+{{changes>ns = pny}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pny|Ethnologue data]]
+
